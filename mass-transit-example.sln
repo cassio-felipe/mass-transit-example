@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mass-transit-example", "mass-transit-example.csproj", "{21431F12-32B2-4C43-BD3B-BDC30C21BFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21431F12-32B2-4C43-BD3B-BDC30C21BFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21431F12-32B2-4C43-BD3B-BDC30C21BFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21431F12-32B2-4C43-BD3B-BDC30C21BFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21431F12-32B2-4C43-BD3B-BDC30C21BFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
