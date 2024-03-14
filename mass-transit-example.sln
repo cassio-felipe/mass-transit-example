@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mass-transit-example", "mass-transit-example.csproj", "{21431F12-32B2-4C43-BD3B-BDC30C21BFBF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mass-transit", "mass-transit\mass-transit.csproj", "{D1BD84E5-5BCA-410B-932D-5EE69FC38134}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{21431F12-32B2-4C43-BD3B-BDC30C21BFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21431F12-32B2-4C43-BD3B-BDC30C21BFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21431F12-32B2-4C43-BD3B-BDC30C21BFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21431F12-32B2-4C43-BD3B-BDC30C21BFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1BD84E5-5BCA-410B-932D-5EE69FC38134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BD84E5-5BCA-410B-932D-5EE69FC38134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BD84E5-5BCA-410B-932D-5EE69FC38134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BD84E5-5BCA-410B-932D-5EE69FC38134}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
